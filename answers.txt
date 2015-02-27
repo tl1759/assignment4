@@ -1,0 +1,19 @@
+1.The legal Python names are _and, var, var1, your_name and COLOR, and the not legal ones are and, 1var and my-name. and is one of the reserved words; 1var begin with number which is illegal for Python names; my-name has an operator"-"(minus).
+2.a = False type is 'bool'
+  b = 3.7 type is float
+  c = 'Alex' tpye is str
+  d = 7 type is int
+  e = 'True' type is str
+  f = 17j type is comples
+  g = '17' type is str
+  h = True type is bool
+  i = '3.14159' type is str.
+
+3.b and c : False
+  b or c : True
+  not a and b : True
+  (a and b ) or not c : True
+  not b and not (a or c) :False
+
+
+
